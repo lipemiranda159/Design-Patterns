@@ -1,0 +1,14 @@
+C:\Users\Felipe\Source\Repos\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Users\Felipe\Source\Repos\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\Felipe\Source\Repos\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Users\Felipe\Source\Repos\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.Application.Service.dll
+C:\Users\Felipe\Source\Repos\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.Domain.DataTransferObject.dll
+C:\Users\Felipe\Source\Repos\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.Domain.Service.dll
+C:\Users\Felipe\Source\Repos\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.Application.Service.pdb
+C:\Users\Felipe\Source\Repos\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.Domain.DataTransferObject.pdb
+C:\Users\Felipe\Source\Repos\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.Domain.Service.pdb
+C:\Users\Felipe\Source\Repos\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csprojAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csproj.CopyComplete
+C:\Users\Felipe\Source\Repos\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\Users\Felipe\Source\Repos\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb

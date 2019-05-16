@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "ObserverPattern\ObserverPattern.csproj", "{15379570-D3D1-430A-AA21-34B116DDB382}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{D34A954D-A175-44E7-B9BB-6D2F7744BB64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern.Domain.Service", "ObserverPattern.Domain.Service\ObserverPattern.Domain.Service.csproj", "{2468B7FA-793F-4F29-8C2B-0C28FDAAE9E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern.Domain.DataTransferObject", "ObserverPattern.Domain.DataTransferObject\ObserverPattern.Domain.DataTransferObject.csproj", "{7327BF2A-0F89-4AF4-B4DD-F9A12AB4B491}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{8177E720-42CE-4758-A36D-BB06C2C7ABB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern.Application.Service", "ObserverPattern.Application.Service\ObserverPattern.Application.Service.csproj", "{4B2C00EE-2102-4C05-BC71-8AF13AA7FC6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15379570-D3D1-430A-AA21-34B116DDB382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15379570-D3D1-430A-AA21-34B116DDB382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15379570-D3D1-430A-AA21-34B116DDB382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15379570-D3D1-430A-AA21-34B116DDB382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2468B7FA-793F-4F29-8C2B-0C28FDAAE9E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2468B7FA-793F-4F29-8C2B-0C28FDAAE9E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2468B7FA-793F-4F29-8C2B-0C28FDAAE9E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2468B7FA-793F-4F29-8C2B-0C28FDAAE9E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7327BF2A-0F89-4AF4-B4DD-F9A12AB4B491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7327BF2A-0F89-4AF4-B4DD-F9A12AB4B491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7327BF2A-0F89-4AF4-B4DD-F9A12AB4B491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7327BF2A-0F89-4AF4-B4DD-F9A12AB4B491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B2C00EE-2102-4C05-BC71-8AF13AA7FC6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B2C00EE-2102-4C05-BC71-8AF13AA7FC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B2C00EE-2102-4C05-BC71-8AF13AA7FC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B2C00EE-2102-4C05-BC71-8AF13AA7FC6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2468B7FA-793F-4F29-8C2B-0C28FDAAE9E6} = {D34A954D-A175-44E7-B9BB-6D2F7744BB64}
+		{7327BF2A-0F89-4AF4-B4DD-F9A12AB4B491} = {D34A954D-A175-44E7-B9BB-6D2F7744BB64}
+		{4B2C00EE-2102-4C05-BC71-8AF13AA7FC6B} = {8177E720-42CE-4758-A36D-BB06C2C7ABB1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEA90D69-DB28-43FF-B42E-17C0981C3699}
+	EndGlobalSection
+EndGlobal

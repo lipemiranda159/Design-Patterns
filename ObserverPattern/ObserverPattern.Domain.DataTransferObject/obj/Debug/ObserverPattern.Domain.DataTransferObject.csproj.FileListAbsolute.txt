@@ -1,0 +1,6 @@
+C:\Users\Felipe\Source\Repos\ObserverPattern\ObserverPattern.Domain.DataTransferObject\bin\Debug\ObserverPattern.Domain.DataTransferObject.dll
+C:\Users\Felipe\Source\Repos\ObserverPattern\ObserverPattern.Domain.DataTransferObject\bin\Debug\ObserverPattern.Domain.DataTransferObject.pdb
+C:\Users\Felipe\Source\Repos\ObserverPattern\ObserverPattern.Domain.DataTransferObject\obj\Debug\ObserverPattern.Domain.DataTransferObject.csprojAssemblyReference.cache
+C:\Users\Felipe\Source\Repos\ObserverPattern\ObserverPattern.Domain.DataTransferObject\obj\Debug\ObserverPattern.Domain.DataTransferObject.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Source\Repos\ObserverPattern\ObserverPattern.Domain.DataTransferObject\obj\Debug\ObserverPattern.Domain.DataTransferObject.dll
+C:\Users\Felipe\Source\Repos\ObserverPattern\ObserverPattern.Domain.DataTransferObject\obj\Debug\ObserverPattern.Domain.DataTransferObject.pdb
